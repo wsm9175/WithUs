@@ -1,0 +1,63 @@
+body {
+	margin:0;
+	padding:0;
+	background-repeat:repeat-x;
+	font-family:"����";
+	font-size:12px;
+	font-weight:normal;
+}
+
+#write{
+      margin: auto;
+}
+
+.board{
+      width:96%;
+	margin: auto;
+	margin-top: 5%;
+	min-height:200px;
+	padding:15px;
+	overflow:hidden;
+	line-height:150%;
+	border:solid 1px #9DC6CA;
+}
+
+.btn_submit{
+      margin: auto;
+      margin-top: 20%;
+      display: block;
+      font-family: 'Nanum Gothic', sans-serif;
+      text-align: center;
+      font-size: 20px;
+}
+#input{
+      text-align: center;
+}
+
+.input_title{
+      display: block;
+      border-top: none;
+      border-left: none; 
+      border-right : none;
+      width: 96%;
+      height: 100%;
+      margin: auto;
+      margin-top: 20px;
+      border : 1px solid;
+      border-color: rgb(40, 147, 134);
+      font-size: 20px;
+}
+
+.input_form{
+      display: block;
+      border-top: none;
+      border-left: none; 
+      border-right : none;
+      width: 96%;
+      min-height:200px;
+      margin: auto;
+      margin-top: 20px;
+      border : 2px solid;
+      border-color: rgb(40, 147, 134);
+      font-size: 20px;
+}

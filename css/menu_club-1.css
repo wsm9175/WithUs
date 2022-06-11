@@ -1,0 +1,21 @@
+#nav{
+      list-style:none;
+      height: 40px;
+      padding:5px, 1px;
+      margin: 0;
+      text-align: center;
+      border-bottom:solid 2px #9DC6CA;
+}
+
+#nav li{
+      float:left;
+      position:relative;
+      margin: 5px 0;
+      margin-left: 10%;
+      padding: 0;
+}
+
+li{
+      width: 12%;
+}
+
